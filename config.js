@@ -69,11 +69,11 @@ Nota: non mettere il testo lungo in modo che l'immagine non scompaia
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 il suo tasto imgbb per attivare l'antiporn e qualche altro comando che deve scaricare l'immagine
 
-const cr = '☄️✨br⃟izas o⃟rion✨☄️\n' 
+const cr = '☄️✨orsetto bot✨☄️\n' 
 testo del simbolo controllato
 
-prefisso const  = '!' 
-prefisso
+const prefix = '!' 
+// prefixo
 
 const blockedmsg = '*😜 Il tuo numero è bloccato, cioè non ti sente 😜*'
 messaggio quando qualcuno bloccato richiede un comando
@@ -220,63 +220,63 @@ Es:  ${prefisso}vota opzione1
  ${prefisso}broadvoto
  ${prefisso}votobroad - Rende un sondaggio trasmesso per tutti coloro che usano il bot'
 
-Non voglio nemmeno scherzare qui se non vuoi quell'errore
-esportazioni. delaygamescmd = delaygamescmd
-esportazioni. delaystealcmd = delaystealcmd
-esportazioni. gpvotohelp = gpvotohelp
-esportazioni. votohelp = votohelp
-esportazioni. activehelp = activehelp
-esportazioni. limitqnt = limitqnt
-esportazioni. urlaudiomenu = urlaudiomenu
-esportazioni. delayantispamcmd = delayantispamcmd
-esportazioni. antinewchatmsg = antinewchatmsg
-esportazioni. antipvmsg = antipvmsg
-esportazioni. backgroundbyeimg = backgroundbyeimg
-esportazioni. backgroundwelcomeimg = backgroundwelcomeimg
-esportazioni. backgroundmenuimg = backgroundmenuimg
-esportazioni. titlemenumsgimg = titlemenumsgimg
-esportazioni. menumsgimg = menumsgimg
-esportazioni. gimagenotregister = gimagenotregister
-esportazioni. sgooglenotregister = sgooglenotregister
-esportazioni. byemsgimg = byemsgimg
-esportazioni. msgwelcomeimg = msgwelcomeimg
-esportazioni. notregister = notregister
-esportazioni. qnttravahardrole = qnttravahardrole
-esportazioni. blockedcmdmsg = blockedcmdmsg
-esportazioni. blockedmsg = blockedmsg
-esportazioni. banmsgpalavra = banmsgpalavra
-esportazioni. adminmsgpalavra = adminmsgpalavra
-esportazioni. apikeyimgbb = apikeyimgbb
-esportazioni. linkbotlindo = linkbotlindo
-esportazioni. botlindo = botlindo
-esportazioni. brutto botfeio = brutto botfeio
-esportazioni. cadebot = cadebot
-esportazioni. botfdp = botfdp
-esportazioni. botgostoso = botgostoso
-esportazioni. botfofo = botfofo
-esportazioni. botbaianor = botbaianor
-esportazioni. botcorno = botcorno
-esportazioni. botputa = botputa
-esportazioni. botgay = botgay
-esportazioni. botviado = botviado
-esportazioni. numbotfeio = numbotfeio
-esportazioni. linkimgday = linkimgday
-esportazioni. textmsgday = textmsgday
-esportazioni. textmsgnig = textmsgnig
-esportazioni. linkimgnig = linkimgnig
-esportazioni. textmsgeve = textmsgeve
-esportazioni. linkimgeve = linkimgeve
-esportazioni. adminmsgtype = adminmsgtype
-esportazioni. adminmsgporn = adminmsgporn
-esportazioni. adminmsglink = adminmsglink
-esportazioni. banmsglink = banmsglink
-esportazioni. banmsgporn = banmsgporn
-esportazioni. banmsgtype = banmsgtype
-esportazioni. msgerr = msgerr
-esportazioni. disordine = disordine
-esportazioni. prefisso = prefisso
-esportazioni. cr = cr
-esportazioni. vcard = vcard
-Esportazioni. OriginalOwner = OriginalOwner
-Esportazioni. ownerNumber = ownerNumber
-esportazioni. callbotmsgs = callbotmsgs
+// Nem ouse mexer aqui se n quiser que de erro
+exports.delaygamescmd = delaygamescmd
+exports.delaystealcmd = delaystealcmd
+exports.gpvotohelp = gpvotohelp
+exports.votohelp = votohelp
+exports.ativohelp = ativohelp
+exports.limitqnt = limitqnt
+exports.urlaudiomenu = urlaudiomenu
+exports.delayantispamcmd = delayantispamcmd
+exports.antinewchatmsg = antinewchatmsg
+exports.antipvmsg = antipvmsg
+exports.backgroundbyeimg = backgroundbyeimg
+exports.backgroundwelcomeimg = backgroundwelcomeimg
+exports.backgroundmenuimg = backgroundmenuimg
+exports.titlemenumsgimg = titlemenumsgimg
+exports.menumsgimg = menumsgimg
+exports.gimagenotregister = gimagenotregister
+exports.sgooglenotregister = sgooglenotregister
+exports.byemsgimg = byemsgimg
+exports.msgwelcomeimg = msgwelcomeimg
+exports.notregister = notregister
+exports.qnttravahardroleta = qnttravahardroleta
+exports.blockedcmdmsg = blockedcmdmsg
+exports.blockedmsg = blockedmsg
+exports.banmsgpalavra = banmsgpalavra
+exports.adminmsgpalavra = adminmsgpalavra
+exports.apikeyimgbb = apikeyimgbb
+exports.linkbotlindo = linkbotlindo
+exports.botlindo = botlindo
+exports.botfeio = botfeio
+exports.cadebot = cadebot
+exports.botfdp = botfdp
+exports.botgostoso = botgostoso
+exports.botfofo = botfofo
+exports.botbaianor = botbaianor
+exports.botcorno = botcorno
+exports.botputa = botputa
+exports.botgay = botgay
+exports.botviado = botviado
+exports.numbotfeio = numbotfeio
+exports.linkimgday = linkimgday
+exports.textmsgday = textmsgday
+exports.textmsgnig = textmsgnig
+exports.linkimgnig = linkimgnig
+exports.textmsgeve = textmsgeve
+exports.linkimgeve = linkimgeve
+exports.adminmsgtype = adminmsgtype
+exports.adminmsgporn = adminmsgporn
+exports.adminmsglink = adminmsglink
+exports.banmsglink = banmsglink
+exports.banmsgporn = banmsgporn
+exports.banmsgtype = banmsgtype
+exports.msgerr = msgerr
+exports.mess = mess
+exports.prefix = prefix
+exports.cr = cr
+exports.vcard = vcard
+exports.OriginalOwner = OriginalOwner
+exports.ownerNumber = ownerNumber
+exports.callbotmsgs = callbotmsgs
