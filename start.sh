@@ -1,6 +1,6 @@
 #! bin/bash
-mentre : 
+while : 
 do
- start npm
+ npm start
  sleep 1
 fatto
