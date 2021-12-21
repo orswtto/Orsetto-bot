@@ -59,7 +59,7 @@
     "url":  "git+https://github.com/Orswtto/Orsetto-bot.git" 
   },
   "bug": {
-    "url":    "https://github.com/Orswtto/Orsetto-bot.git" 
+    "url":    "https://github.com/Orswtto/Orsetto-bot.git/issues" 
   },
-  "homepage":  "https://github.com/Orswtto/Orsetto-bot.git" 
+  "homepage":  "https://github.com/Orswtto/Orsetto-bot.git#readme" 
 }
