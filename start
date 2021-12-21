@@ -1,0 +1,6 @@
+#! bin/bash
+mentre : 
+do
+ start npm
+ sleep 1
+fatto
