@@ -1,0 +1,65 @@
+{
+  "nome":  "orsetto-bot",
+  "versione":   "2.0.0",
+  "description":  "Nessuncommento", 
+  "main":  "sei un meme",
+  "directory": {
+    "lib":  "lib" 
+  },
+  "script": {
+    "test":  "echo \"Errore: nessun test specificato\" && exit 1", 
+    "start":  "node index.js" 
+  },
+  "parole chiave": [
+       "termux", 
+     "whatsapp",
+     "bot",
+     "whatsapp",
+    "bot"
+  ],
+  "autore":   "Quel meme di orsetto :/",
+  "licenza":  "ISC",
+  "dipendenze": {
+    "@adiwajshing/baileys":   "^3.5.2",
+    "@kagchi/kag-api": "^1.5.5",  
+    "asincrono":   "^2.4.1",
+    "axios":   "^0.21.0", 
+    "cfonts":   "^2.9.0", 
+    "cpf":   "^2.0.1",
+    "emoji-unicode":   "^2.0.1",
+    "escape-string-regexp":   "^1.0.5",  
+    "fake-useragent":   "^1.0.1",  
+    "fast-speedtest-api": "^0.3.2",  
+    "fluent-ffmpeg":   "^2.1.2", 
+    "form-data":   "^2.3.3",
+    "fortnite-9812":   "^1.0.4",  
+    "g-i-s":   "^2.1.6", 
+    "geoip-lite":   "^1.4.2",  
+    "gm":   "^1.23.1",  
+    "imagemagick":   "^0.1.3", 
+    "jimp":   "^0.16.1", 
+    "js-brasil":   "^2.4.1",
+    "linkifyjs":   "^3.0.0-beta.3", 
+    "moment-timezone":   "^0.5.32",
+    "morsificare":  "^2.4.0",
+    "multistream":   "^2.1.0",
+    "node-fetch":   "^2.6.1",
+    "node-open-geocoder": "^4.0.1",  
+    "nodejs-currency-convert": "^1.0.2",  
+    "performance-now":   "^2.1.0",
+    "qrcode":   "^1.4.4",
+    "richiesta":   "^2.81.0",
+    "reverse-image-search-google":   "^1.0.3", 
+    "spinnies":   "^0.5.1",
+    "translatte":   "^2.5.8", 
+    "ytdl-core":   "^4.9.1" 
+  },
+  "repository": {
+    "type":   "git",  
+    "url":  "git+https://github.com/Orswtto/Orsetto-bot.git" 
+  },
+  "bug": {
+    "url":    "https://github.com/Orswtto/Orsetto-bot.git" 
+  },
+  "homepage":  "https://github.com/Orswtto/Orsetto-bot.git" 
+}
