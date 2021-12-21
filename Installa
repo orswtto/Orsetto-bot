@@ -1,0 +1,32 @@
+#! bin/bash
+
+CYAN="\033[1;36m" 
+GIALLO="\033[1;33m" 
+VIOLA="\033[1;35m" 
+VERDE="\033[1;32m" 
+ROSSO='\033 [1;31m' 
+NC='\033 [0m'  
+
+echo $YELLOW"[$RED! $YELLOW] Installerò le dipendenze essenziali pro bot funcinar sei d'accordo solo con i programmi che installerò blz? [s/n] " 
+leggere inp
+if [  "$inp"  =  "s"  ]; allora
+    pkg update
+    pkg upgrade
+    pkg install ruby
+    gem install lolcat
+    pkg install nodejs 
+    pkg install libwebp 
+    pkg install ffmpeg 
+    pkg install wget 
+    pkg install tesseract 
+    pkg install graphicsmagick 
+    pkg install imagemagick 
+    npm install
+    npm install pm2 -g
+    npm install pm2 -g
+    echo $GREEN"Hmmm tutto bene può dare npm start, scansiona il codice e divertirsi con il bot :)" 
+phi
+if [  "$inp"  =  "n"  ]; allora
+    echo $RED"Jae quindi divertiti a cercare di scoprire le dipendenze da solo e manualmente :)" 
+    uscita
+phi
