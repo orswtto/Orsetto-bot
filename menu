@@ -1,10 +1,10 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["393383814169@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
-// mude para seu numero
+const OriginalOwner = '393383814169' 
+// cambia il tuo numero
 
-const callbotmsgs = ['orion', 'brizas']
+const callbotmsgs = ['', 'orsetto']
 
 var gimagenotregister = false
 // quando não há comando registrado o bot procura no google image
