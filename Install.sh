@@ -24,7 +24,7 @@ if [  "$inp"  =  "s"  ]; allora
     npm install
     npm install pm2 -g
     npm install pm2 -g
-    echo $GREEN"Hmmm era ora, ora premi npm start, scansiona il codice e divertirsi con il bot :)" 
+    echo $GREEN"Hmmm era ora, ora digita npm start, scansiona il codice e divertirsi con il bot :)" 
 phi
 if [  "$inp"  =  "n"  ]; allora
     echo $RED"Vabbe sei un meme inutile, rimuoviti gli spammerini manualmente :)" 
