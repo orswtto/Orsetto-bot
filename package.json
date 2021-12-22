@@ -2,7 +2,7 @@
   "nome":  "orsetto-bot",
   "versione":   "2.0.0",
   "description":  "Nessuncommento", 
-  "main":  "sei un meme",
+  "main":  "index.js",
   "directory": {
     "lib":  "lib" 
   },
@@ -17,7 +17,7 @@
      "whatsapp",
     "bot"
   ],
-  "autore":   "Quel meme di orsetto :/",
+  "autore":   "Orsetto :/",
   "licenza":  "ISC",
   "dipendenze": {
     "@adiwajshing/baileys":   "^3.5.2",
